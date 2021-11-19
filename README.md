@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @njt0
+- 👋 Hi, I’m NJ
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on Front-end developers
