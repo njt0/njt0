@@ -1,7 +1,7 @@
 - 👋 Hi, I’m NJ
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on Front-end developers
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on CLoud Engineering
 - 📫 How to reach me rasp08.that@icloud.com
 
 <!---
