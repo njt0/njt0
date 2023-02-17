@@ -1,8 +1,8 @@
 - 👋 Hi, I’m NJ
-- 👀 I’m interested in Cloud Technologies and DevOps
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on CLoud Engineering,DevOps
-- 📫 How to reach me rasp08.that@icloud.com
+- 👀 I’m interested in Cloud Technologies and DevSecOps
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on CLoud Engineering,DevSecOps
+- 📫 How to reach me contact@hummatovic.com
 
 <!---
 njt0/njt0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
