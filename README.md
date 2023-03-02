@@ -1,7 +1,5 @@
 - 👋 Hi, I’m NJ
-- 👀 I’m interested in Cloud Technologies and DevSecOps
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on CLoud Engineering,DevSecOps
+
 - 📫 How to reach me contact@hummatovic.com
 
 <!---
