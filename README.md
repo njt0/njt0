@@ -2,7 +2,6 @@
 
 - 📫 How to reach me contact@hummatovic.com
 - 11 month experience in AWS (7 month professional development) and 2 month Azure. 
-You can visit Github profile to follow my AWS projects.Link below.
 I will start to post my projects soon after exams .
 Preparing for AWS Solution Architect and Microsoft Azure Administrator AZ-104 Exams.(Additionally - HashiCorp Certified: Terraform Associate (002) Exam)
 Linux intermediate user (Alma Linux).
