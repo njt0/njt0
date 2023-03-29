@@ -1,9 +1,9 @@
 - 👋 Hi, I’m NJ
 
 - 📫 How to reach me contact@hummatovic.com
-- 11 month experience in AWS (7 month professional development) and 2 month Azure. 
+- 11 month experience in AWS (7 month professional development) and 4 month Azure. 
 I will start to post my projects soon after exams .
-Preparing for AWS Solution Architect and Microsoft Azure Administrator AZ-104 Exams.(Additionally - HashiCorp Certified: Terraform Associate (002) Exam)
+Preparing for AWS Solution Architect and Microsoft Azure AZ-305 Exams.(Additionally - HashiCorp Certified: Terraform Associate (002) Exam)
 Linux intermediate user (Alma Linux).
 Already obtained skills --> IT fundamentals,SQL ,MySQL,PostgreSQL,Docker,Git,Terraform,Python semi-productive knowledge,Ready to extend.
 12 Weeks AWS Bootcamp on the go.
