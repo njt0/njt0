@@ -5,7 +5,7 @@
 I will start to post my projects soon after exams .
 Preparing for AWS Solution Architect and Microsoft Azure AZ-305 Exams.(Additionally - HashiCorp Certified: Terraform Associate (002) Exam)
 Linux intermediate user (Alma Linux).
-Already obtained skills --> IT fundamentals,SQL ,MySQL,PostgreSQL,Docker,Git,Terraform,Python semi-productive knowledge,Ready to extend.
+Already obtained skills --> IT fundamentals,SQL ,MySQL,PostgreSQL,Docker,Git,Terraform,Python,Kubernetes semi-productive knowledge,Ready to extend.
 12 Weeks AWS Bootcamp on the go.
 Current goal SysOps --> Cloud Engineer --> DevOps !
 
